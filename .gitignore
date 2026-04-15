@@ -2,3 +2,16 @@
 /build/
 .idea/
 .gradle
+# Mac junk
+__MACOSX/
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+
+# Compiled output
+bin/
+
+# Logs
+*.log
